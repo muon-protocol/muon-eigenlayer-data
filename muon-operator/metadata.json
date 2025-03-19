@@ -1,0 +1,7 @@
+{
+  "name": "muon-operator-testnet",
+  "website": "https://www.muon.net",
+  "description": "testnet operator for MuonAVS",
+  "logo": "https://raw.githubusercontent.com/muon-protocol/muon-eigenlayer-data/testnet/muon-operator/logo.png",
+  "twitter": "https://x.com/muon_net"
+}
