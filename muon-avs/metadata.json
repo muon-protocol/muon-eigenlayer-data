@@ -2,6 +2,6 @@
   "name": "muon-avs-testnet",
   "website": "https://www.muon.net",
   "description": "Muon micro-validator service",
-  "logo": "https://raw.githubusercontent.com/muon-protocol/muon-eigenlayer-data/main/muon-avs/logo.png",
+  "logo": "https://raw.githubusercontent.com/muon-protocol/muon-eigenlayer-data/testnet/muon-avs/logo.png",
   "twitter": "https://x.com/muon_net"
 }
