@@ -1,5 +1,5 @@
 {
-  "name": "muon-avs-testnet",
+  "name": "MuonAVS",
   "website": "https://www.muon.net",
   "description": "Muon micro-validator service",
   "logo": "https://raw.githubusercontent.com/muon-protocol/muon-eigenlayer-data/main/muon-avs/logo.png",
