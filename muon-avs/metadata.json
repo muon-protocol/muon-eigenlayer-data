@@ -1,7 +1,7 @@
 {
   "name": "MuonAVS",
   "website": "https://www.muon.net",
-  "description": "Muon micro-validator service",
+  "description": "MuonAVS is a micro-validator service for EigenLayer. It utilizes Muon's decentralized and modular validation layer, making it simple for protocols to utilize EigenLayer's security through micro-validators.",
   "logo": "https://raw.githubusercontent.com/muon-protocol/muon-eigenlayer-data/main/muon-avs/logo.png",
   "twitter": "https://x.com/muon_net"
 }
